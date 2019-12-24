@@ -1,0 +1,14 @@
+pipeline
+{
+  stages
+  {
+    stage(clear)
+    {
+      steps
+      {
+        echo "hello"
+      
+      }
+    }
+  }
+}
